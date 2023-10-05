@@ -8,6 +8,14 @@
 В своей работе я использую Python для получения, обработки и анализа данных. Пишу сложные запросы на SQL (CTE, представления, оконные функции). Использую Tableau и Redash для построения дашбордов. 
 
 
+Образование
+- Национальный Исследовательский Ядерный Университет "МИФИ", Москва
+Инженер
+- Karpov.courses
+Аналитик данных
+
+
+
 <!--
 **deryabochkinoleg/deryabochkinoleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
