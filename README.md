@@ -1,8 +1,8 @@
-<p align="left"> 
+
 Hi 👋 My name is Oleg
 ===================== 
 Data Analysis 
--------------  </p>
+------------- 
 kjbkjbhbhvhvhv b  
 * 🌍  Москва 
 * ✉️  [deryabochkin@list.ru](mailto:deryabochkin@list.ru)
