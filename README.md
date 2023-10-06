@@ -21,7 +21,7 @@
 * 🌍  Москва 
 * ✉️  [deryabochkin@list.ru](mailto:deryabochkin@list.ru)
 
-### Технический стек  
+### Технологический стек  
 
 <div id="skills" align="left">
   <a>
