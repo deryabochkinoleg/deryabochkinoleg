@@ -13,13 +13,10 @@
   </a>
 </div>
 
-<h1 align="center"> Привет! 👋 Меня зовут Олег </h1>
-===================== 
-<h1 align="center"> Аналитик данных </h1>
-------------- 
+<h1 align="center"> Привет! 👋 Меня зовут Олег </h1> 
 
-В своей работе я использую Python для получения, обработки и анализа данных. Пишу сложные запросы на SQL (CTE, представления, оконные функции). Использую Tableau и Redash для построения дашбордов. 
-В работе аналитика данных меня вдохновляет возможность работать над продуктом, которым пользуются миллионы людей. Хочу развиваться и рости как профессионал в области анализа данных и приносить пользу команде и бизнесу.  
+### О себе
+Я аналитик данных. Меня вдохновляет возможность работать над продуктом, которым пользуются миллионы людей. Хочу развиваться и расти как профессионал в области анализа данных и приносить пользу команде и бизнесу.
 
 * 🌍  Москва 
 * ✉️  [deryabochkin@list.ru](mailto:deryabochkin@list.ru)
@@ -71,6 +68,9 @@
   </a>
 </div>
 
-### Социальные сети 
+### Образование
+Национальный Исследовательский Ядерный Университет "МИФИ"
+Инженер
 
- <p align="left"> <a href="https://discord.com/users/deryabochkinoleg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/deryabochkinoleg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Karpov.courses
+Аналитик данных
