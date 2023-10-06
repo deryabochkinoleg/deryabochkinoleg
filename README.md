@@ -8,6 +8,9 @@
   <a href="https://discord.com/users/deryabochkinoleg">
     <img src=https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white alt="Discord Badge"/>
   </a>
+  <a href=>
+    <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt="Discord Badge"/>
+  </a>
 </div>
 
 Привет! 👋 Меня зовут Олег
