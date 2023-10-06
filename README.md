@@ -5,6 +5,9 @@
   <a href="https://t.me/olegderyabochkin">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white alt="Telegram Badge"/>
   </a>
+  <a href="https://discord.com/users/deryabochkinoleg">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white/>
+  </a>
 </div>
 
 Привет! 👋 Меня зовут Олег
