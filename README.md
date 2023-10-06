@@ -36,6 +36,18 @@
     <img src=https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white alt="numpy"/>
   </a>
   <a>
+    <img src=https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white alt="plotly"/>
+  </a>
+  <a>
+    <img src=https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white alt="scipy"/>
+  </a>
+  <a>
+    <img src=https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white alt="scikit-learn"/>
+  </a>
+  <a>
+    <img src=https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white alt="jupyter"/>
+  </a>
+  <a>
     <img src=https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white alt="postgresql"/>
   </a>
   <a>
@@ -45,22 +57,10 @@
     <img src=https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white alt="tableau"/>
   </a>
   <a>
-    <img src=https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white alt="scipy"/>
-  </a>
-  <a>
-    <img src=https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white alt="scikit-learn"/>
-  </a>
-  <a>
     <img src=https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white alt="git"/>
   </a>
   <a>
     <img src=https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white alt="airflow"/>
-  </a>
-  <a>
-    <img src=https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white alt="jupyter"/>
-  </a>
-  <a>
-    <img src=https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white alt="plotly"/>
   </a>
   <a>
     <img src=https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black alt="linux"/>
