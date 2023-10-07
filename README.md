@@ -58,6 +58,9 @@
     <img src=https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white alt="git"/>
   </a>
   <a>
+    <img src=https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white alt="bash"/>
+  </a>
+  <a>
     <img src=https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white alt="airflow"/>
   </a>
   <a>
